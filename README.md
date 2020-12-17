@@ -1,16 +1,24 @@
-### Hi there 👋
+### I'm Tyler! Welcome to my slice of the internet!
 
 <!--
 **tyleretheridge/tyleretheridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tyler and here on my GitHub profile you'll find a wide variety of projects and code that's just as varied as my hobbies and interests. I'm a data scientist and machine learning engineer who just wants to know how stuff works.  
 
-Here are some ideas to get you started:
+Right now I'm: 
+- Working on a digital intake system for a homeless shelter that will predict likely exit destinations
+- Unraveling the hidden layers of high level gameplay through Fizzi's Slippi project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Some of my skills include: 
+Python  
+Tensorflow  
+Scikit-Learn  
+AWS Elastic Beanstalk
+FastAPI  
+Flask
+Natural Language Processing  
+
+You can find me in these places: 
+GitHub:  **<--- You are here**  
+Medium: [My profile](https://medium.com/@tylerjetheridge98)  psst... read some articles  
+LinkedIn: [Connect with me!](https://www.linkedin.com/in/tylerjetheridge/)
 -->
