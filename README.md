@@ -18,7 +18,8 @@ Some of my skills include:
 You can find me in these places:  
 GitHub:  **<--- You are here**  
 Medium: [My profile](https://medium.com/@tylerjetheridge98)   
-LinkedIn: [Connect with me!](https://www.linkedin.com/in/tylerjetheridge/)
+LinkedIn: [Connect with me!](https://www.linkedin.com/in/tylerjetheridge/)  
+Want to know more or think I would be a great addition to your team? [Email me!](tylerjetheridge98@gmail.com)
 <!--
 **tyleretheridge/tyleretheridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
