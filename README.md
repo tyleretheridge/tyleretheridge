@@ -4,7 +4,7 @@ I'm Tyler and here on my GitHub profile you'll find a wide variety of projects a
 
 Right now I'm: 
 - Working on a digital intake system for a homeless shelter that will predict likely exit destinations
-- Unraveling the hidden layers of high level gameplay through Fizzi's Slippi project
+- Unraveling the hidden layers of Bob Ross's *The Joy of Painting*
 
 Some of my skills include:  
 - Python  
