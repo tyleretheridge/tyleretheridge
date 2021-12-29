@@ -13,7 +13,8 @@ Some of my skills include:
 - AWS Elastic Beanstalk
 - FastAPI  
 - Flask
-- Natural Language Processing  
+- Natural Language Processing
+- Docker
 
 You can find me in these places:  
 GitHub:  **<--- You are here**  
