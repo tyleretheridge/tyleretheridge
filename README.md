@@ -3,9 +3,7 @@
 I'm Tyler and here on my GitHub profile you'll find a wide variety of projects and code that's just as varied as my hobbies and interests. I'm a data scientist and machine learning engineer who just wants to know how stuff works.  
 
 Right now I'm: 
-- Working on a digital intake system for a homeless shelter that will predict likely exit destinations
-- Unraveling the hidden layers of Bob Ross's *The Joy of Painting*
-
+- Using my skills to moderninze a telecom company in its endeavours to provide fiber to the country
 Some of my skills include:  
 - Python  
 - Tensorflow  
@@ -15,6 +13,9 @@ Some of my skills include:
 - Flask
 - Natural Language Processing
 - Docker
+- Geopandas
+- Quantum GIS
+- QGIS Custom Tooling
 
 You can find me in these places:  
 GitHub:  **<--- You are here**  
