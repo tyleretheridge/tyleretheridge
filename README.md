@@ -3,7 +3,9 @@
 I'm Tyler and here on my GitHub profile you'll find a wide variety of projects and code that's just as varied as my hobbies and interests. I'm a data scientist and machine learning engineer who just wants to know how stuff works.  
 
 Right now I'm: 
-- Using my skills to moderninze a telecom company in its endeavours to provide fiber to the country
+- Using my skills to moderninze a telecom company in its endeavours to provide fiber to the country  
+
+
 Some of my skills include:  
 - Python  
 - Tensorflow  
