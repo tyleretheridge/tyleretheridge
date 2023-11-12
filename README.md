@@ -7,15 +7,12 @@ Right now I'm:
 
 
 Some of my skills include:  
-- Python  
-- Scikit-Learn  
-- FastAPI  
-- Flask
+- Go
+- Python
 - Docker
-- Geopandas
 - Quantum GIS
 - QGIS Custom Tooling
-- SQLAlchemy 1.4/2.0
+
 
 You can find me in these places:  
 GitHub:  **<--- You are here**  
